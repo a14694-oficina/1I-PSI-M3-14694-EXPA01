@@ -22,8 +22,8 @@ A diferença entre = e ==
 
 if
 
-break keyword
+break
 
-Funções str() e int()
+Funções str e int
 
-Função random.randint(
+Função random.randint
